@@ -1,0 +1,16 @@
+.me{
+    height: 15em;
+    width: 14em;
+    border-radius: 50%;
+}
+.text-block {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 4rem;
+       position: absolute;
+   padding: auto;
+   margin: auto 60px;
+ top: 250px;
+ right: 100px;;
+    color: white;
+    
+  }
